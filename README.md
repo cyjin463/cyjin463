@@ -10,7 +10,7 @@
   <br/><br/>
   <div>
     
-   ## ⚙️ Front-end STACK
+   ## ⚙️ Front-end Stack
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
@@ -40,7 +40,7 @@
    
    <div>
       
-   ## 🏔️ ~ing
+   ## 🚀 ~ing
    | Project | 핵심기술 | 설명 |
    |----|--|----|
    | kakao_map | 카카오 지도 api | 카카오 지도 api로 내위치검색, 장소검색, 주소값, 좌표값, 마커표시 구현 |
