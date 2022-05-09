@@ -36,6 +36,20 @@
    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white">
 
   </div>
+   
+   <br/><br/>
+   
+   <div>
+      
+   ## 🏔️ ~ing
+   | Project | 핵심기술 | 설명 |
+   |----|--|----|
+   | kakao_map | 카카오 지도 api | 카카오 지도 api로 내위치검색, 장소검색, 주소값, 좌표값, 마커표시 구현 |
+   | SIDE-GATI | React, TypeScript, 카카오 지도 api, 날씨 api | 날씨(온도)별로 어떠한 옷을 입을지 추천해주는 반응형 웹 |
+     
+   </div>
+   
+   
 </div>
 
 <div align="end">
