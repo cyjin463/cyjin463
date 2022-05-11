@@ -53,6 +53,8 @@
    
   ### 📧 E-mail📧  
   cyjin463@gmail.com  
+  ### 📒 Notion 📒  
+  https://www.notion.so/8f4abafce7804bbd89d4338d807404de
    
 </div>
 
