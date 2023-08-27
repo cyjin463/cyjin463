@@ -3,7 +3,7 @@
   
   # 💻 CHOI YOUNG JIN
 
-  반갑습니다!!  
+  반갑습니다!!
   현재는 프론트 엔지니어 개발자  
   최종 목표는 주니어 개발자를 양성하는 풀스택 개발자인 최영진 입니다.
  
@@ -43,9 +43,7 @@
    ## 🚀 ~ing
    | Project | 핵심기술 | 설명 |
    |----|--|----|
-   | kakao_map | 카카오 지도 api | 카카오 지도 api로 내위치검색, 장소검색, 주소값, 좌표값, 마커표시 구현 |
-   | SIDE-GATI | React, TypeScript, 카카오 지도 api, 날씨 api | 날씨(온도)별로 어떠한 옷을 입을지 추천해주는 반응형 웹 |
-   | Nomadcoders-Typescript| Typescript | 강의 공부 |
+   | Project | 핵심기술 | 설명 |
     
    </div>
    
